@@ -39,6 +39,16 @@ If you do not have "Admin" access in the room, and are instead just a listener, 
 
 The "play" icon in the top right of the black bar is a toggle switch to toggle between the room information, and the current song playing. 
 
+### Take control
+
+You can take control of a room if no one is in the room. When you enter the room you will see the "Take Control" icon in the top right of the black bar next to the "current track" btn:
+
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/takeControl.png)
+
+This button will give you "Temp Admin" control of the room, and you can click any of the songs in the room to start DJ'ing. If the "Super Admin" or the "Current Admin" joins the room, they can click that button and take contol at anytime.
+
+You will also see this "Take Control" feature on the "Middle button" of the Users page:
+
 ## Users
 
 The users screen gives you three options. The furthest left, first, option is the list of your friends that are currently using the app, and what room they are currently located in. You can click on any user in the list to join the room that he/she is immediately and start listening with them.
@@ -46,6 +56,12 @@ The users screen gives you three options. The furthest left, first, option is th
 ![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/users.png)
 
 The second, middle, option is all of the users in the room that you are currently in. 
+
+If you are the "Super Admin" of the room then you will see a "Take Control" icon next to the user. 
+
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/userControl.png)
+
+If you click the button next to the user you will pass control to that person and then they will have the ability to control the room. They can add tracks, reorder tracks, and play tracks. They become the current DJ. But you can always click the "Take Control" icon on the Tracks screen to "Take Back Control".
 
 The furthest, third, option is a chat window, where you can talk with all of the users currently in the room that you are in.
 
