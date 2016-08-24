@@ -19,7 +19,7 @@ The top line is the important part and is the only thing required when creating 
 
 The other fields are optional. Password, if used the room will require a password to be input in order for others to be able to join the room.
 
-Once your room is created click on your room. This room will now be in your list moving forward. Rooms with a Orange "user" icon to the left of the room are rooms that you created, and that you have control over, you are the "Super Admin". If you see a grey "user" icon to the left of the 
+Once your room is created click on your room. This room will now be in your list moving forward. Rooms with a Orange "user" icon to the left of the room are rooms that you created, and that you have control over, you are the "Super Admin". If you see a grey "user" icon to the left of the room this means that you are the "Current Admin". If there is no icon then you are neither.
 
 ## Tracks
 
