@@ -71,7 +71,7 @@ To logout click the hamburger icon in the top left, then select, "logout".
 
 # Known Issues
 
-* Music stops on incoming call, but not once you answer the call! Need to pause the music then answer the call. (Not sure about this on iPhone)
+* Music stops on incoming call, but *NOT* once you answer the call! Need to pause the music then answer the call. (Not sure about this on iPhone)
 * Messages screen on android spreads full screen.
 * Coming in and out of Sleep/Lock screen can cause disconnect from room.
 
