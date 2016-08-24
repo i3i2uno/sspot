@@ -47,6 +47,8 @@ You can take control of a room if no one is in the room. When you enter the room
 
 This button will give you "Temp Admin" control of the room, and you can click any of the tracks in the room to start DJ'ing. If the "Super Admin" or the "Current Admin" joins the room, they can click that button and take contol at anytime.
 
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/takeControl.png)
+
 You will also see this "Take Control" feature on the "Middle button" of the Users page:
 
 ## Users
