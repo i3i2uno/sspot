@@ -27,17 +27,17 @@ Once you click into a room you will then see the "Tracks" screen. This is the co
 
 ![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/tracks.png)
 
-If this is your room, or you have "Admin" capabilities then the "+" icon will be in the bottom right of the screen. This is what you will click on to add songs. Click this icon and you will see the "Add Tracks" search screen:
+If this is your room, or you have "Admin" capabilities then the "+" icon will be in the bottom right of the screen. This is what you will click on to add tracks. Click this icon and you will see the "Add Tracks" search screen:
 
 ![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/createTrack.png)
 
-Start typing on the search bar to begin receiving results. Right now the search is pulling from youtube. So you are essentially searching youtube. Once you find a song you like click it. Otherwise click the top x to clear your results and then close the page.
+Start typing on the search bar to begin receiving results. Right now the search is pulling from youtube. So you are essentially searching youtube. Once you find a track you like click it. Otherwise click the top x to clear your results and then close the page.
 
 ![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/trackSearch.png)
 
-If you do not have "Admin" access in the room, and are instead just a listener, you can still click the "three dots" to the right of the track to add to any of your rooms. So if you see a song of someone elses that you like select this option to quickly add it to your own room.
+If you do not have "Admin" access in the room, and are instead just a listener, you can still click the "three dots" to the right of the track to add to any of your rooms. So if you see a track of someone elses that you like select this option to quickly add it to your own room.
 
-The "play" icon in the top right of the black bar is a toggle switch to toggle between the room information, and the current song playing. 
+The "play" icon in the top right of the black bar is a toggle switch to toggle between the room information, and the current track playing. 
 
 ### Take control
 
@@ -45,7 +45,7 @@ You can take control of a room if no one is in the room. When you enter the room
 
 ![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/takeControl.png)
 
-This button will give you "Temp Admin" control of the room, and you can click any of the songs in the room to start DJ'ing. If the "Super Admin" or the "Current Admin" joins the room, they can click that button and take contol at anytime.
+This button will give you "Temp Admin" control of the room, and you can click any of the tracks in the room to start DJ'ing. If the "Super Admin" or the "Current Admin" joins the room, they can click that button and take contol at anytime.
 
 You will also see this "Take Control" feature on the "Middle button" of the Users page:
 
