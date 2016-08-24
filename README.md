@@ -73,5 +73,4 @@ To logout click the hamburger icon in the top left, then select, "logout".
 
 * Music stops on incoming call, but __NOT__ once you answer the call! Need to pause the music then answer the call. (Not sure about this on iPhone)
 * Messages screen on android spreads full screen.
-* Coming in and out of Sleep/Lock screen can cause disconnect from room.
-
+* Coming in and out of Sleep/Lock screen can cause disconnect from room. Completely close/destroy the app. Then restart.
