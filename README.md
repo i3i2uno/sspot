@@ -37,6 +37,8 @@ Start typing on the search bar to begin receiving results. Right now the search 
 
 If you do not have "Admin" access in the room, and are instead just a listener, you can still click the "three dots" to the right of the track to add to any of your rooms. So if you see a track of someone elses that you like select this option to quickly add it to your own room.
 
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/takeControl.png)
+
 The "play" icon in the top right of the black bar is a toggle switch to toggle between the room information, and the current track playing. 
 
 ### Take control
@@ -46,8 +48,6 @@ You can take control of a room if no one is in the room. When you enter the room
 ![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/takeControl.png)
 
 This button will give you "Temp Admin" control of the room, and you can click any of the tracks in the room to start DJ'ing. If the "Super Admin" or the "Current Admin" joins the room, they can click that button and take contol at anytime.
-
-![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/takeControl.png)
 
 You will also see this "Take Control" feature on the "Middle button" of the Users page:
 
