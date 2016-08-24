@@ -45,7 +45,7 @@ The "play" icon in the top right of the black bar is a toggle switch to toggle b
 
 You can take control of a room if no one is in the room. When you enter the room you will see the "Take Control" icon in the top right of the black bar next to the "current track" btn:
 
-![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/takeControl.png)
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/addTrackToRoom.png)
 
 This button will give you "Temp Admin" control of the room, and you can click any of the tracks in the room to start DJ'ing. If the "Super Admin" or the "Current Admin" joins the room, they can click that button and take contol at anytime.
 
