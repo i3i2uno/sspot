@@ -33,7 +33,7 @@ If this is your room, or you have "Admin" capabilities then the "+" icon will be
 
 Start typing on the search bar to begin receiving results. Right now the search is pulling from youtube. So you are essentially searching youtube. Once you find a song you like click it. Otherwise click the top x to clear your results and then close the page.
 
-![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/searchTrack.png)
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/trackSearch.png)
 
 If you do not have "Admin" access in the room, and are instead just a listener, you can still click the "three dots" to the right of the track to add to any of your rooms. So if you see a song of someone elses that you like select this option to quickly add it to your own room.
 
