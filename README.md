@@ -73,7 +73,7 @@ To logout click the hamburger icon in the top left, then select, "logout".
 
 # Known Issues
 
+* ~Messages screen on android spreads full screen.~
 * Switching from Wifi to Cell Data will crash (Not tested on iOS)
 * Music stops on incoming call, but __NOT__ once you answer the call! Need to pause the music then answer the call. (Not sure about this on iPhone)
-* Messages screen on android spreads full screen.
 * Coming in and out of Sleep/Lock screen can cause disconnect from room. Completely close/destroy the app. Then restart.
