@@ -25,11 +25,11 @@ Once your room is created click on your room. This room will now be in your list
 
 You can toggle between your rooms and searching for other available rooms by toggling between the two top header buttons.
 
-![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/roomSeachToggle.png)
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/roomSearchToggle.png)
 
 When you click the button on the right, signifying that you are searching for rooms, you will be presented with three buttons on the bottom on the screen. The first button which is automatically selected will be the top 100 most popular rooms, based on the amount of current live users listening. The second button is a list of all of your friends. When you click on a friend, it will then show you all of his/hers rooms. Click any room at any time to join it. If it has a password, you will be asked for it, if successful you will join the room. The search Button allows you to search by roomId, or by tags, or both.
 
-![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/roomSeach.png)
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/roomSearch.png)
 
 Once you join the room, if it isn't currently in your list, you can click the "squared arrow" button in the bottom left.
 
