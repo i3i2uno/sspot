@@ -85,7 +85,7 @@ The furthest, third, option is a chat window, where you can talk with all of the
 
 To logout click the hamburger icon in the top left, then select, "logout".
 
-# Thing Added in V2
+# Things Added in V2
 
 * Graceful WIFI/DATA switch, and alert the user when the device is not actually "connected" to the room
 * Room Search
