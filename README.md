@@ -21,6 +21,20 @@ The other fields are optional. Password, if used the room will require a passwor
 
 Once your room is created click on your room. This room will now be in your list moving forward. Rooms with a Orange "user" icon to the left of the room are rooms that you created, and that you have control over, you are the "Super Admin". If you see a grey "user" icon to the left of the room this means that you are the "Current Admin". If there is no icon then you are neither.
 
+### Room Search
+
+You can toggle between your rooms and searching for other available rooms by toggling between the two top header buttons.
+
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/roomSeachToggle.png)
+
+When you click the button on the right, signifying that you are searching for rooms, you will be presented with three buttons on the bottom on the screen. The first button which is automatically selected will be the top 100 most popular rooms, based on the amount of current live users listening. The second button is a list of all of your friends. When you click on a friend, it will then show you all of his/hers rooms. Click any room at any time to join it. If it has a password, you will be asked for it, if successful you will join the room. The search Button allows you to search by roomId, or by tags, or both.
+
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/roomSeach.png)
+
+Once you join the room, if it isn't currently in your list, you can click the "squared arrow" button in the bottom left.
+
+![img](https://raw.githubusercontent.com/i3i2uno/sspot/master/images/addToRoomBtn.png)
+
 ## Tracks
 
 Once you click into a room you will then see the "Tracks" screen. This is the collection of tracks that are in the room. 
@@ -71,9 +85,18 @@ The furthest, third, option is a chat window, where you can talk with all of the
 
 To logout click the hamburger icon in the top left, then select, "logout".
 
+# Thing Added in V2
+
+* Graceful WIFI/DATA switch, and alert the user when the device is not actually "connected" to the room
+* Room Search
+* Better user aknowldgement
+* Start to a tutorial driven experience
+* Better shuffling
+* Help button that will shoot you right to this site
+
 # Known Issues
 
 * ~~Messages screen on android spreads full screen.~~
-* Switching from Wifi to Cell Data will crash (Not tested on iOS)
+* ~~Switching from Wifi to Cell Data will crash (Not tested on iOS)~~
+* ~~Coming in and out of Sleep/Lock screen can cause disconnect from room. Completely close/destroy the app. Then restart.~~
 * Music stops on incoming call, but __NOT__ once you answer the call! Need to pause the music then answer the call. (Not sure about this on iPhone)
-* Coming in and out of Sleep/Lock screen can cause disconnect from room. Completely close/destroy the app. Then restart.
