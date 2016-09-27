@@ -89,10 +89,10 @@ To logout click the hamburger icon in the top left, then select, "logout".
 
 * Graceful WIFI/DATA switch, and alert the user when the device is not actually "connected" to the room
 * Room Search
-* Better user aknowldgement
+* Better user acknowledgement 
 * Start to a tutorial driven experience
 * Better shuffling
-* Help button that will shoot you right to this site
+* Help button that will shoot you right to this site/tutorial
 
 # Known Issues
 
