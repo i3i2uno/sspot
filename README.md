@@ -93,6 +93,9 @@ To logout click the hamburger icon in the top left, then select, "logout".
 * Start to a tutorial driven experience
 * Better shuffling
 * Help button that will shoot you right to this site/tutorial
+* Song Likes, ability to like a song, and see animation around a liked song
+* Song Plays, system now tracks how many times a song for that user has been played
+* Bluetooth commands
 
 # Known Issues
 
